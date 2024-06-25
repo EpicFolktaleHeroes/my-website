@@ -1,0 +1,4 @@
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('Document loaded');
+    // 여기에 추가적인 JavaScript 코드를 작성합니다.
+});
